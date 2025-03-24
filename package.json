@@ -16,7 +16,7 @@
 		"bootstrap-icons": "^1.11.3"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^3.3.1",
+		"@sveltejs/adapter-auto": "^5.0.0",
 		"@sveltejs/kit": "^2.17.3",
 		"@sveltejs/vite-plugin-svelte": "^5.0.3",
 		"svelte": "^5.20.2",
